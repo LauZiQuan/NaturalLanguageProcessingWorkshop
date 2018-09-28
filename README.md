@@ -4,21 +4,21 @@ This repository contains all of the resources for my Introduction to Natural Lan
 
 It covers everything from the very basics preprocessing techniques to building ML Model to predict Sentiments.
 
-** Agenda **
+### Agenda 
 - What is NLP
 - Common NLP Applications
 - NLP Pipeline
 - Resource and Tools
 - Hands-on Session
 
-** Agenda **
+### Modules
 - NLTK
 - WordCloud
 - Pandas
 - Matplotlib
 - Scikit Learn
 
-** Topics Covered **
+### Topics Covered
 - Tokenization 
 - Stopwords
 - Stemming
